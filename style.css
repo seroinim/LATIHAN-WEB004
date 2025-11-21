@@ -1,0 +1,47 @@
+.banner {
+  background: url("https://www.gallery25n.com/wp-content/uploads/2025/06/nasi-goreng-terbaik-di-Jakarta-1024x585.jpeg") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+.warung {
+  background: url("https://liandamarta.com/wp-content/uploads/2017/01/dsc02174.jpg") no-repeat center center;
+  background-size: cover;
+  min-height: 100vh; /* membuat background full 1 layar */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+.menu-slide-item {
+  padding: 90px;
+}
+
+.menu-img {
+  padding-right: 10px;
+  width: 350px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.menu-title {
+  margin-top: 20px;
+  font-size: 1.8rem;
+  color: #fff;
+  text-shadow: none #000;
+}
+#INFOFAQ {
+  background: url("https://img.freepik.com/free-photo/wooden-table-blurred-restaurant-background_1258-172.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.info-box {
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+}
